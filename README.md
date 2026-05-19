@@ -10,7 +10,7 @@ Brindar información actualizada de ventas de productos tanto de mostrador como 
 
 Objetivos Específicos
 
-1. Mejorar el control de stock
+1. Gestionar el control de stock
 - Automatizar la actualización del stock con cada venta
 - Evitar errores por falta de registro manual
 - Permitir visualizar stock por sucursal
