@@ -8,6 +8,10 @@ Definición de Objetivos del Sistema – Pinturería Mes.sirve
 Desarrollar un sistema web integral que permita gestionar de forma eficiente el negocio de la pinturería Mes.sirve, incluyendo el control de stock, registro de ventas, administración de clientes y proveedores, y una plataforma de ventas online accesible desde cualquier dispositivo.
 Brindar información actualizada de ventas de productos tanto de mostrador como web. Administrando la carretera de clientes y proveedores. Con el fin de lograr una gestión eficiente del control de stock.
 
+## OBJETIVO GRAL ALTERNATIVO
+Desarrollar un sistema multiplataforma para la gestión integral de una pinturería, que permita administrar de manera eficiente las ventas, el control de stock, los clientes y proveedores, optimizando los procesos comerciales y administrativos, mejorando la organización de la información y contribuyendo a una mayor eficiencia operativa y atención al cliente.
+
+
 Objetivos Específicos
 
 1. Gestionar el control de stock
